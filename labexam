@@ -1,4 +1,4 @@
- Create a Simulator
+# Create a Simulator
 set ns [new Simulator]
 #Define different colors for data flows (for NAM)
 $ns color 1 Yellow
